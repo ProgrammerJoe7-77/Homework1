@@ -1,0 +1,57 @@
+body {
+font-family: sans-serif;
+text-align: center;	
+background-image: url("Sea.jpeg"); 
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+
+h1, h2, h3 {
+color: white;
+}
+
+p {
+color: lightblue;
+}
+
+ul {
+text-align: center;	
+color: yellow;
+display: inline-block;
+}
+
+ol {
+text-align: center;	
+color: yellow;
+display: inline-block;
+}
+
+table {
+text-align: center;
+display: inline-block;
+}
+
+a {
+color: red;	
+}
+
+a:hover {
+color: green;	
+}
+
+tr:nth-child(1) {
+background-color: white;
+}
+
+tr:nth-child(2) {
+background-color: black;
+}
+
+tr:nth-child(3) {
+background-color: white;
+}
+
+tr:nth-child(4) {
+background-color: black;
+}
